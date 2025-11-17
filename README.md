@@ -10,3 +10,8 @@ We have three financial statements:
 - balance sheet: what do we own?
 - income statement: how much  money do I make? 
 - cashflow statement: how much money do I **really** make? 
+
+
+## Income statement 
+
+here
